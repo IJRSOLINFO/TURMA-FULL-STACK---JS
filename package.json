@@ -4,7 +4,7 @@
   "description": "Nova ideia de projeto",
   "main": "index.js",
   "scripts": {
-    "start": "node"
+    "start": "node AuladeFunção_02.js"
   },
   "keywords": [],
   "author": "",
