@@ -9,16 +9,16 @@
 // }
 // TODO: Questão 20: Crie um input e um botão que permita adicionar nomes em uma lista (ul) na página.
 
-function adicionar (){
-    let nome = document.getElementById('nome').value;
+// function adicionar (){
+//     let nome = document.getElementById('nome').value;
 
-    let lista = document.getElementById('lista');
+//     let lista = document.getElementById('lista');
 
-    let item = document.createElement('li');
+//     let item = document.createElement('li');
     
 
     
-    item.innerText = nome;
+//     item.innerText = nome;
     
-    lista.appendChild(item);
-}
+//     lista.appendChild(item);
+// }
